@@ -53,19 +53,24 @@ The dataset is loaded using pandas, and basic information such as shape, columns
 - Visualize categorical data columns using bar plots.
 - Analyze the correlation between numerical columns using a heatmap.
 - Examine summary statistics for specific groups such as fuel type and seller type.
+  
 visualizations
 Bar plot
+
 ![image](https://github.com/user-attachments/assets/8fd55c8e-ce16-4c1e-8094-00f076c35c2e)
 
 ![image](https://github.com/user-attachments/assets/64329956-e029-4a18-8cb7-3134ead22a3c)
 
 Heat Map
+
 ![image](https://github.com/user-attachments/assets/da0e3d52-10f2-4603-9a97-fb1ac5b77a33)
 
 Corelation between selling price and present price
+
 ![image](https://github.com/user-attachments/assets/f663e79a-e0f4-49a6-be87-3963a1baa291)
 
 Actual price vs predicted price
+
 ![image](https://github.com/user-attachments/assets/d1ba9543-75ce-4cab-b44d-82539d89e217)
 
 ### 4. Feature Engineering
@@ -147,6 +152,7 @@ The model achieves the following metrics on the test data:
 - R² Score: 0.89
 ## Output
 ![Screenshot 2024-12-25 221213](https://github.com/user-attachments/assets/7a64ca5e-b550-4f55-93c7-f7cf52563bfb)
+
 ![Screenshot 2024-12-25 221257](https://github.com/user-attachments/assets/a1edaae2-8987-40b2-8623-55e644d1583e)
 
 ## Contributions

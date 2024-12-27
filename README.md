@@ -1,16 +1,16 @@
-Name : Sumanth Kumar C 
+**Name:** Sumanth Kumar C 
 
-Company: CODETECH
+**Company:** CODETECH
 
-Id:CT08DS223
+**Id:** CT08DS223
 
-Domain:Data Science
+**Domain:** Data Science
 
-Duration:NOV 30th, 2024 - DEC 30th, 2024 
+**Duration:** NOV 30th, 2024 - DEC 30th, 2024 
 
-TASK 2:
-  
-# Vehicle Price Prediction
+**Mentor :** Neela Santosh Kumar 
+
+## TASK 2: Vehicle Price Prediction
 
 This repository contains the code to predict the price of old vehicles using machine learning techniques. The workflow includes data preprocessing, exploratory data analysis, feature engineering, model training, and deployment using Streamlit.
 

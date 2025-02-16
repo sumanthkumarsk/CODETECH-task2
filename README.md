@@ -155,6 +155,4 @@ The model achieves the following metrics on the test data:
 
 ![Screenshot 2024-12-25 221257](https://github.com/user-attachments/assets/a1edaae2-8987-40b2-8623-55e644d1583e)
 
-## Contributions
-Feel free to contribute by improving the model or enhancing the deployment interface.
 
